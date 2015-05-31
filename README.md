@@ -1,7 +1,3 @@
-# JSPM + gulp + react
-
-Simple react shell app, using JSPM and gulp.
-
 ## Installation
 - `npm install && jspm install`
 
